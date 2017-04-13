@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Movie App</string>
+    <string name="Setting_title">Setting</string>
+    <string name="title_activity_setting">Setting</string>
+
+    <string name="sort_by">sort_by</string>
+    <string name="sort_by_default_value">popular</string>
+
+    <string-array name="setting_preference_entries">
+        <item>"High Rated"</item>
+        <item>"most Popular"</item>
+    </string-array>
+
+    <string-array name="setting_entries_value">
+        <item>top_rated</item> // high rated
+        <item>popular</item> // most popular
+    </string-array>
+
+    <string name="addToFavourit">Add to Favorit</string>
+    <string name="trailer">Trailers: </string>
+    <string name="favourit">Favorit</string>
+</resources>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <!--
+          <string-array name="setting_preference_entries_value">
+           <item>vote_average.desc</item> // high rated
+           <item>popularity.desc</item> // most popular
+          </string-array>
+         -->
+
+    <!-- <string name="sort_by_default_val">popularity.desc</string> -->

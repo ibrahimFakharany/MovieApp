@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="@string/Setting_title"
+          android:id="@+id/setting_option_item"
+          app:showAsAction="never"/>
+
+    <item android:title="@string/favourit"
+          android:id="@+id/favourit_option_menu"
+          app:showAsAction="never"/>
+
+</menu>
